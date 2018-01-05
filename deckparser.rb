@@ -10,6 +10,7 @@ class DeckParser
 	def initialize(deckID)
 		@deckID = deckID
 		parseJSON
+		puts "Deck parsed"
 	end
  
 	def getJSON
