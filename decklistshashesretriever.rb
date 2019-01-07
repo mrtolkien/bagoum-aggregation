@@ -1,7 +1,6 @@
 #!/usr/bin/env ruby
 load 'deckaggregator.rb'
 require 'nokogiri'
-require 'nokogiri'
 require 'open-uri'
 
 
